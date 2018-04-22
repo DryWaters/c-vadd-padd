@@ -3,7 +3,7 @@
  *
  *  Created on: Apr 22, 2018
  *      Author: Daniel Waters
- *      CSUID : 011872692
+ *      CSUID : 692
  */
 #include <stdio.h>
 #include <stdlib.h>
